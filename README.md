@@ -10,7 +10,7 @@ A aplicação encontrada foi feita com base na API de Pokémons.
 Os testes visam averiguar a correta utilização de fluxos assíncronos,
 eventos, seletores e inputs funcionando corretamente.
 
-##Clone
+## Clone
 Para ter este código em sua máquina basta ir ao seu terminal do seu ambiente e inserir o comando:
 
 - git clone git@github.com:car0l15/React-Testes.git
