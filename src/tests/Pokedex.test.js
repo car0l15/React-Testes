@@ -72,5 +72,3 @@ describe('Testando as funcionalidades da pokedex', () => {
     });
   });
 });
-
-// ajuda de André e Yasmim turma xp A, agradeço muito
